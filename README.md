@@ -1,6 +1,6 @@
 # Does Scarcity Impede Cognitive Function? Five Preregistered Experiments and Meta-Analysis
 
-Analysis code, processed data and codebook for the five studies reported in the paper (Karaca, Isler, Yilmaz, Dulleck & Dogruyol). The same pipeline is implemented twice, in R and in Python, and both reproduce every number in the paper's Results sections and Tables 2 to 8 from the raw survey exports. A guide for repeating the per-study tests in JASP or jamovi is in `jasp/`.
+Analysis code, processed data and codebook for the five studies reported in the paper (Karaca, Isler, Yilmaz, Dulleck & Dogruyol). The same pipeline is implemented twice, in R and in Python, and both reproduce every number in the paper's Results sections and Tables 2 to 8 from the raw survey exports. 
 
 ## Folder layout
 
@@ -24,7 +24,6 @@ Analysis/
   output/figures/       PNG and PDF figures
   output/checks/        CSV-vs-SAV comparison, derived-vs-SPSS verification, replication checks, logs
   codebook/             codebook.md, codebook.csv, conditions_by_study.csv
-  jasp/                 JASP_replication_guide.md
   REPLICATION_REPORT.md what was checked and what was found
 ```
 
